@@ -5,7 +5,7 @@
 ## created: 2020-11-19
 ## overview: |
 ##     Shiny dashboard exploring topic model results. 
-##     Data comprimises imdb movie reviews for all three star wars prequel films.
+##     Data comprises imdb movie reviews for all three star wars prequel films.
 ## ---
 
 library(shiny)
