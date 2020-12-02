@@ -7,4 +7,4 @@ This demonstration is part of a presentation delivered for the [7th Biennial ACS
 ---
 
 To view an online version of the dashboard, visit:
-https://studio.srcentre.com.au/content/79 
+https://studio.srcentre.com.au/text_analytics_w_shiny/
