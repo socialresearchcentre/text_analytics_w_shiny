@@ -18,7 +18,8 @@ about_tab_ui <- function(id) {
   ns <- NS(id)
   
   fluidPage(
-    mainPanel(img(src = "prequels.png", height = 458 * 1.5, width = 1010 * 1.5))
+    #mainPanel(img(src = "prequels.png", height = 458 * 1.5, width = 1010 * 1.5))
+    mainPanel(includeMarkdown("Readme.md"))
   )
   
 }
