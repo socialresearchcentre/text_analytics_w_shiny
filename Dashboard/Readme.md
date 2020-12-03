@@ -14,12 +14,14 @@ It explores topic models generated from IMDB review data for the Star Wars prequ
 
 The code for generating the topic models and this dashboard are publicly available on github: 
 <br>
+
 [https://github.com/socialresearchcentre/text_analytics_w_shiny](https://github.com/socialresearchcentre/text_analytics_w_shiny)
 
 <br>
 
 # Acknowledgements
 <br>
+
 **Data**
 <br>
 The data presented in this dashboard was downloaded from [IEEE](https://ieee-dataport.org/), with the original data being sourced from [IMDB](https://www.imdb.com/)
